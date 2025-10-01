@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Temporary/project-specific folders
+temp_files/
+archive/
+logs/
+
+# Log and data files
+*.log
+*.csv
+*log.*
+
+# OS junk
+.DS_Store
+Thumbs.db
