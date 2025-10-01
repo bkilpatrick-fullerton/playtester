@@ -1,0 +1,1 @@
+Run playtester.py to run a series of Lost Cities games with a variety of game settings variations (hand size, max card value, number of suits, number of handshake cards).  Find gamestate log files in temp_files folder
